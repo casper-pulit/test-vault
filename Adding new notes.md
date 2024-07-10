@@ -1,1 +1,1 @@
-Is easy. syncing is hard
+Is easy. syncing is hard but Im getting there
