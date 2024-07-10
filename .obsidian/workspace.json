@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53d776f57e97711f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NEw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "NEw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "NEw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "NEw.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f35cf1f290783f3",
+  "active": "53d776f57e97711f",
   "lastOpenFiles": [
-    "ujdfgkjgshdfkjgvsjdkfgsdfgsd.md",
     "Untitled.md",
+    "NEw.md",
+    "ujdfgkjgshdfkjgvsjdkfgsdfgsd.md",
     "Adding new notes.md",
     "NEW.md",
     "TEsting notes.md"
